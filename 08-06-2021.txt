@@ -1,0 +1,11 @@
+Version control system:
+  - it is a software that helps software developers to work together and maintain complete history of their work.
+
+Functionalities of version control system:
+     >Allows developers to work simultaneously
+     > Does not allow overwriting each other changes.
+     > Maintain a history  of every version.
+
+Types of VCS:
+     > Centralized version control system
+     > 
